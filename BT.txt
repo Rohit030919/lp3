@@ -1,0 +1,41 @@
+Practical 1:
+Meta mask.io
+Get metamask
+Add to Chrome
+Add extension
+Automatic yety
+Create a new wallet 
+Continue with Google
+Next next done
+
+2:
+Add account 
+Apla address copy 
+Website:Sepolia faucet
+Apla address paste
+Get Sepolia Ethereum
+Metamask: 3 line
+Network 
+Show test network: enable 
+Dusrya account ch address copy
+Return to pahila account 
+Send
+All network 
+Select network 
+Account 2 ch address paste
+Ani amount 
+Continue 
+Confirm
+
+Practical 3:
+Remix ide
+Contracts
+Create new file
+Student.sol>enter
+Solidify compiler
+Compile file 
+Deploy
+Side ch scroll karaych
+Deployed contracts
+Add student
+Transact

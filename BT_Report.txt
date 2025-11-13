@@ -1,0 +1,39 @@
+Introduction
+Blockchain is a decentralized, distributed, and immutable ledger technology designed to record transactions securely without relying on a central authority. Over time, different types of blockchain structures have emerged to meet various business, industrial, and public requirements. This report surveys the major types of blockchains and highlights their significant real-time applications across sectors.
+
+Public Blockchain
+Public blockchains are open networks where anyone can join, read, write, and participate in the consensus process. They are fully decentralized and secured through cryptographic algorithms and consensus mechanisms like Proof of Work or Proof of Stake.
+Key characteristics include transparency, immutability, equal participation, and high security.
+
+Real-Time Use Cases
+• Cryptocurrencies: Bitcoin and Ethereum use public blockchains for peer-to-peer digital payments without intermediaries.
+• Decentralized Applications (DApps): Ethereum hosts smart contract–based applications for finance, gaming, governance, and digital identity.
+• Decentralized Finance (DeFi): Platforms such as Uniswap, AAVE, and MakerDAO allow loans, staking, and trading without banks.
+• NFTs and Digital Assets: Public chains allow minting and trading of art, music, and gaming assets.
+
+Private Blockchain
+Private blockchains are restricted networks where access is controlled by a single organization. Only authorized members can read or write data. These networks focus on privacy, permission control, higher speed, and business-grade security.
+
+Real-Time Use Cases
+• Banking and Financial Systems: Banks use private blockchains to automate cross-border settlements, KYC, and fraud detection (e.g., JPMorgan’s Quorum).
+• Supply Chain Management: Companies like Walmart and IBM use private chains for secure tracking of goods from source to destination.
+• Healthcare Records: Hospitals store patient records securely with controlled access, ensuring data privacy and integrity.
+• Internal Audits: Enterprises use private chains for transparent and tamper-proof internal auditing.
+
+Consortium (Federated) Blockchain
+Consortium blockchains are semi-decentralized networks managed by a group of organizations instead of a single entity. They combine the openness of public systems with the controlled nature of private systems. Access is permissioned but collectively governed.
+
+Real-Time Use Cases
+• Trade Finance: Banking consortiums such as Marco Polo and we.trade use blockchain to streamline letters of credit, invoice settlement, and payment tracking.
+• Inter-bank Transfers: Multiple banks collaborate on shared ledgers to reduce settlement delays and avoid reconciliation errors.
+• Government and Public Sector: Different departments share verified data on land records, citizen services, and taxation.
+• Energy Trading: Power companies use consortium chains for peer-to-peer energy distribution and billing.
+
+Hybrid Blockchain
+Hybrid blockchains combine both public and private blockchain features. Some components are public for transparency, while sensitive data remains restricted. This gives flexibility, scalability, and controlled security.
+
+Real-Time Use Cases
+• Enterprise Solutions: Companies use hybrid blockchains to expose public proof-of-existence while keeping operational data private.
+• Retail and E-commerce: Customer-facing transactions may be public whereas internal order data stays private.
+• Government Systems: Identification details remain private, but public verification is allowed for services like voting or land registration.
+• Real Estate Industry: Property ownership is public, but financial details remain confidential through hybrid infrastructure.
